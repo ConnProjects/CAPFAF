@@ -1,1 +1,1 @@
-# CAPFAF (Aka: Civil Air Patrol Form Auto Filler)
+# CAPFAF -- Civil Air Patrol Form Auto Filler
